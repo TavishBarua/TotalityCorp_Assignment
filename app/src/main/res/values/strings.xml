@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">TavishBarua</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <!--Resources text-->
+    <string name="str_download">download</string>
+
+    <!--Transition name-->
+    <string name="str_transistion_img">image</string>
+    <string name="str_transistion_btn">button</string>
+</resources>
